@@ -1,0 +1,11 @@
+Disallow: https://remotecoworker.com/wp-content/uploads/wpforms/
+Disallow: /wp-content/uploads/_pda/*
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://remotecoworker.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
